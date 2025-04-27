@@ -1,0 +1,13 @@
+[
+  {
+    "users": [
+      {
+        "phone": "6281234567890",
+        "username": "admin",
+        "password": "password123",
+        "pin": "1234",
+        "key": "abcdefg"
+      }
+    ]
+  }
+]
