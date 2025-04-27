@@ -1,12 +1,13 @@
 [
   {
+    "password": [
+      {
+        "key": "V1.0.0"
+      }
+    ],
     "users": [
       {
-        "phone": "6282225895520",
-        "username": "admin",
-        "password": "yazxz1",
-        "pin": "yazxz1",
-        "key": "yazxz1"
+        "Number": "6282225895520"
       }
     ]
   }
